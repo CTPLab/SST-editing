@@ -118,6 +118,8 @@ sh train_s2_xenium.sh
 
 ## Train the customized StyleGAN2 Inversion model 
 
+To train the GAN Inversion model, first download [moco](https://drive.google.com/file/d/1-1QfREW1Gz15sCU9w9pp9joAiQzTyNya/view?usp=sharing) to style3/pretrained_models folder
+
 ### CosMx
 ```
 sh train_s2i_cosmx.sh

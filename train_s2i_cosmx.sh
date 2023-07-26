@@ -1,0 +1,27 @@
+python train.py \
+    --decoder=style2 \
+    --use_cfgr=False \
+    --gene_type=tabular \
+    --dataset_type=CosMx \
+    --data_splt=slide_ID_numeric \
+    --exp_dir=Data/CosMx/GANI/ \
+    --gene_num=1000 \
+    --gene_use=True --gene_local=True \
+    --kernel_size=3 \
+    --encoder_type=ResNetBackboneEncoder \
+    --max_steps=800000 \
+    --batch_size=8 \
+    --test_batch_size=8 \
+    --board_interval=500 \
+    --val_interval=10000 \
+    --save_interval=100000 \
+    --image_interval=10000 \
+    --lpips_lambda=0.5 \
+    --l2_lambda=15 \
+    --moco_lambda=0.5 \
+    --input_nc=2 \
+    --n_iters_per_batch=1 \
+    --output_size=128 \
+    --train_decoder=False \
+    --w_discriminator_lambda=0 \
+    --stylegan_weights=Data/CosMx/GAN/N_True_0.5_slide_ID_numeric_3_512/checkpoint/550000.pt

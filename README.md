@@ -1,5 +1,5 @@
 # In-silico-editing 
-Official PyTorch implementation (The code will be released this week) for the manuscript:
+Official PyTorch implementation for the manuscript:
 
 **In silico spatial transcriptomic editing at single-cell resolution**
 

@@ -175,7 +175,7 @@ Fig. 2 (d)  (Results may vary due to random seed)
 sh run_xenium_demo.sh
 ```
 
-Fig. 1 (f, g)
+Fig. 2 (f, g)
 ```
 sh run_xenium_fov.sh
 ```

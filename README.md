@@ -1,7 +1,7 @@
-# In-silico-editing 
+# SST-editing 
 Official PyTorch implementation for the manuscript:
 
-**In silico spatial transcriptomic editing at single-cell resolution**
+**SST-editing: In silico spatial transcriptomic editing at single-cell resolution**
 
 Jiqing Wu and Viktor H. Koelzer.
 

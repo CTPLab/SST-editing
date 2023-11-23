@@ -136,22 +136,22 @@ sh train_s2i_xenium.sh
 
 ### CosMx
 
-Fig. 1 (b, c)
+Fig. 1 (q.0, q.1)
 ```
 sh run_cosmx_plot.sh
 ```
 
-Fig. 1 (d)
+Fig. 1 (q.2)
 ```
 sh run_cosmx_metric.sh
 ```
 
-Fig. 1 (e) (Results may vary due to random seed)
+Fig. 1 (i.0) (Results may vary due to random seed)
 ```
 sh run_cosmx_demo.sh
 ```
 
-Fig. 1 (g, h)
+Fig. 1 (i.2, i.3)
 ```
 sh run_cosmx_fov.sh
 ```
@@ -160,22 +160,22 @@ sh run_cosmx_fov.sh
 
 ### Xenium
 
-Fig. 2 (a, b)
+Fig. 2 (q.0, q.1)
 ```
 sh run_xenium_plot.sh
 ```
 
-Fig. 2 (c)
+Fig. 2 (q.2)
 ```
 sh run_xenium_metric.sh
 ```
 
-Fig. 2 (d)  (Results may vary due to random seed)
+Fig. 2 (i.0)  (Results may vary due to random seed)
 ```
 sh run_xenium_demo.sh
 ```
 
-Fig. 2 (f, g)
+Fig. 2 (i.2, i.3)
 ```
 sh run_xenium_fov.sh
 ```

@@ -6,7 +6,17 @@ Official PyTorch implementation for the manuscript:
 Jiqing Wu and Viktor H. Koelzer.
 
 
-
+If you find this repository helpful for your research, we would appreciate your citation of this paper.
+```
+@article{wu2023silico,
+  title={In silico spatial transcriptomic editing at single-cell resolution},
+  author={Wu, Jiqing and Koelzer, Viktor H},
+  journal={bioRxiv},
+  pages={2023--08},
+  year={2023},
+  publisher={Cold Spring Harbor Laboratory}
+}
+```
 
 ## Demo 
 ### CosMx
@@ -186,4 +196,3 @@ We would also like to thank all the authors contributing to the CosMx and Xenium
 
 ## License
 The copyright license of this repository is specified with the LICENSE-In-silico-editing.
-

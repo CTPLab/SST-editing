@@ -1,4 +1,4 @@
-The following licenses apply to the In-silico_editing repository.
+The following licenses apply to the SST-editing repository.
 
 The software of StyleGAN2 and StyleGAN3 are provided by the copyright holders under
 LICENSE-NVIDIA.
@@ -8,7 +8,7 @@ The software of restyle-encoder and StyleGAN3-editing are provided by the copyri
 
 The remaining software:
 
-Copyright (c) 2022, the authors of 'In silico spatial transcriptomic editing at single-cell resolution'
+Copyright (c) 2022, the authors of 'SST-editing: In silico spatial transcriptomic editing at single-cell resolution'
 All rights reserved under LICENSE-CC-BY-NC-SA-4.0.
 
 

@@ -1,5 +1,5 @@
 # SST-editing 
-Official PyTorch implementation for the manuscript:
+Official PyTorch implementation for the manuscript accepted by **Bioinformatics**:
 
 **SST-editing: In silico spatial transcriptomic editing at single-cell resolution**
 
@@ -9,7 +9,7 @@ Jiqing Wu and Viktor H. Koelzer.
 If you find this repository helpful for your research, we would appreciate your citation of this paper.
 ```
 @article{wu2023silico,
-  title={In silico spatial transcriptomic editing at single-cell resolution},
+  title={SST-editing: In silico spatial transcriptomic editing at single-cell resolution},
   author={Wu, Jiqing and Koelzer, Viktor H},
   journal={bioRxiv},
   pages={2023--08},
@@ -191,8 +191,8 @@ sh run_xenium_fov.sh
 ```
 
 ## Acknowledgment
-This repository is built upon [Restyle-encoder](https://https://github.com/yuval-alaluf/restyle-encoder) and [StyleGAN3-editing](https://github.com/yuval-alaluf/stylegan3-editing.git) projects. We would like to thank all the authors contributing to those projects.
+This repository is built upon [Restyle-encoder](https://https://github.com/yuval-alaluf/restyle-encoder) and [StyleGAN3-editing](https://github.com/yuval-alaluf/stylegan3-editing.git) projects. We would like to thank all the authors contributed to those projects.
 We would also like to thank all the authors contributing to the CosMx and Xenium datasets.
 
 ## License
-The copyright license of this repository is specified with the LICENSE-In-silico-editing.
+The copyright license of this repository is specified with the LICENSE-SST-editing.

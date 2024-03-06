@@ -5,14 +5,32 @@ Official PyTorch implementation for the manuscript accepted by **Bioinformatics*
 
 Jiqing Wu and Viktor H. Koelzer.
 
+**Accepted paper**: https://doi.org/10.1093/bioinformatics/btae077
 
 If you find this repository helpful for your research, we would appreciate your citation of this paper.
 ```
-@article{wu2023silico,
-  title={SST-editing: In silico spatial transcriptomic editing at single-cell resolution},
-  author={Wu, Jiqing and Koelzer, Viktor H},
+@article{10.1093/bioinformatics/btae077,
+    author = {Wu, Jiqing and Koelzer, Viktor H},
+    title = "{SST-editing: in silico spatial transcriptomic editing at single-cell resolution}",
+    journal = {Bioinformatics},
+    volume = {40},
+    number = {3},
+    pages = {btae077},
+    year = {2024},
+    month = {02},
+    issn = {1367-4811},
+    doi = {10.1093/bioinformatics/btae077},
+    url = {https://doi.org/10.1093/bioinformatics/btae077},
+    eprint = {https://academic.oup.com/bioinformatics/article-pdf/40/3/btae077/56850944/btae077.pdf},
+}
+```
+Please see also our follow-up work [**IST-editing**](https://github.com/CTPLab/IST-editing) for more references.
+```
+@article{wu2023editing,
+  title={IST-editing: Infinite spatial transcriptomic editing in a generated gigapixel mouse pup},
+  author={Wu, Jiqing and Berg, Ingrid and Koelzer, Viktor H},
   journal={bioRxiv},
-  pages={2023--08},
+  pages={2023--12},
   year={2023},
   publisher={Cold Spring Harbor Laboratory}
 }
@@ -191,7 +209,7 @@ sh run_xenium_fov.sh
 ```
 
 ## Acknowledgment
-This repository is built upon [Restyle-encoder](https://https://github.com/yuval-alaluf/restyle-encoder) and [StyleGAN3-editing](https://github.com/yuval-alaluf/stylegan3-editing.git) projects. We would like to thank all the authors contributed to those projects.
+This repository is built upon [Restyle-encoder](https://github.com/yuval-alaluf/restyle-encoder) and [StyleGAN3-editing](https://github.com/yuval-alaluf/stylegan3-editing.git) projects. We would like to thank all the authors contributed to those projects.
 We would also like to thank all the authors contributing to the CosMx and Xenium datasets.
 
 ## License

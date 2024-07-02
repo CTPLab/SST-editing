@@ -24,15 +24,14 @@ If you find this repository helpful for your research, we would appreciate your 
     eprint = {https://academic.oup.com/bioinformatics/article-pdf/40/3/btae077/56850944/btae077.pdf},
 }
 ```
-Please see also our follow-up work [**IST-editing**](https://github.com/CTPLab/IST-editing) for more references.
+Please see also our follow-up work [**IST-editing**](https://github.com/CTPLab/IST-editing) (**MIDL, oral**) for more references.
 ```
-@article{wu2023editing,
+@inproceedings{wu2024ist,
   title={IST-editing: Infinite spatial transcriptomic editing in a generated gigapixel mouse pup},
   author={Wu, Jiqing and Berg, Ingrid and Koelzer, Viktor H},
-  journal={bioRxiv},
-  pages={2023--12},
-  year={2023},
-  publisher={Cold Spring Harbor Laboratory}
+  booktitle={International Conference on Medical Imaging with Deep Learning},
+  year={2024},
+  organization={PMLR}
 }
 ```
 
